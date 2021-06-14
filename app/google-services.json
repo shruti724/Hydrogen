@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "170142577079",
+    "project_id": "hydrogen-e4ebf",
+    "storage_bucket": "hydrogen-e4ebf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170142577079:android:1eee95eb4e86b52c1b7832",
+        "android_client_info": {
+          "package_name": "com.example.hydrogen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170142577079-ocftb1aelo4jl3npuknl30cav3ilvam6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAO1XzkndreiKrvuPczrRirwunA9usx2PE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170142577079-ocftb1aelo4jl3npuknl30cav3ilvam6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
